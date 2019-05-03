@@ -1,0 +1,282 @@
+DGS004
+null 0 0
+an 0	label: 0
+an 1	label: 1
+an 2	label:2
+an 3	label:3
+an 4	label:4
+an 5	label:5
+an 6	label:6
+an 7	label:7
+an 8	label:8
+an 9	label:9
+an 10	label:10
+an 11	label:11
+an 12	label:12
+an 13	label:13
+an 14	label:14
+an 15	label:15
+an 16	label:16
+an 17	label:17
+an 18	label:18
+an 19	label:19
+an 20	label:20
+an 21	label:21
+an 22	label:22
+an 23	label:23
+an 24	label:24
+an 25	label:25
+an 26	label:26
+an 27	label:27
+an 28	label:28
+an 29	label:29
+an 30	label:30
+an 31	label:31
+an 32	label:32
+an 33	label:33
+an 34	label:34
+an 35	label:35
+an 36	label:36
+an 37	label:37
+an 38	label:38
+an 39	label:39
+an 40	label:40
+an 41	label:41
+an 42	label:42
+an 43	label:43
+an 44	label:44
+an 45	label:45
+an 46	label:46
+an 47	label:47
+an 48	label:48
+an 49	label:49
+an 50	label:50
+an 51	label:51
+an 52	label:52
+an 53	label:53
+an 54	label:54
+an 55	label:55
+an 56	label:56
+an 57	label:57
+an 58	label:58
+an 59	label:59
+an 60	label:60
+an 61	label:61
+an 62	label:62
+an 63	label:63
+an 64	label:64
+an 65	label:65
+an 66	label:66
+an 67	label:67
+an 68	label:68
+an 69	label:69
+an 70	label:70
+an 71	label:71
+an 72	label:72
+an 73	label:73
+an 74	label:74
+an 75	label:75
+an 76	label:76
+an 77	label:77
+an 78	label:78
+an 79	label:79
+an 80	label:80
+an 81	label:81
+an 82	label:82
+an 83	label:83
+an 84	label:84
+an 85	label:85
+an 86	label:86
+an 87	label:87
+an 88	label:88
+an 89	label:89
+an 90	label:90
+an 91	label:91
+an 92	label:92
+an 93	label:93
+an 94	label:94
+an 95	label:95
+an 96	label:96
+an 97	label:97
+an 98	label:98
+an 99	label:99
+ae e5 1 0
+ae e7 2 1
+ae e9 3 2
+ae e11 4 3
+ae e13 5 4
+ae e15 6 5
+ae e17 7 6
+ae e19 8 7
+ae e21 9 8
+ae e22 10 0
+ae e24 11 1
+ae e25 11 10
+ae e26 12 2
+ae e27 12 11
+ae e28 13 3
+ae e29 13 12
+ae e30 14 4
+ae e31 14 13
+ae e32 15 5
+ae e33 15 14
+ae e34 16 6
+ae e35 16 15
+ae e36 17 7
+ae e37 17 16
+ae e38 18 8
+ae e39 18 17
+ae e40 19 9
+ae e41 19 18
+ae e42 20 10
+ae e44 21 11
+ae e45 21 20
+ae e46 22 12
+ae e47 22 21
+ae e48 23 13
+ae e49 23 22
+ae e50 24 14
+ae e51 24 23
+ae e52 25 15
+ae e53 25 24
+ae e54 26 16
+ae e55 26 25
+ae e56 27 17
+ae e57 27 26
+ae e58 28 18
+ae e59 28 27
+ae e60 29 19
+ae e61 29 28
+ae e62 30 20
+ae e64 31 21
+ae e65 31 30
+ae e66 32 22
+ae e67 32 31
+ae e68 33 23
+ae e69 33 32
+ae e70 34 24
+ae e71 34 33
+ae e72 35 25
+ae e73 35 34
+ae e74 36 26
+ae e75 36 35
+ae e76 37 27
+ae e77 37 36
+ae e78 38 28
+ae e79 38 37
+ae e80 39 29
+ae e81 39 38
+ae e82 40 30
+ae e84 41 31
+ae e85 41 40
+ae e86 42 32
+ae e87 42 41
+ae e88 43 33
+ae e89 43 42
+ae e90 44 34
+ae e91 44 43
+ae e92 45 35
+ae e93 45 44
+ae e94 46 36
+ae e95 46 45
+ae e96 47 37
+ae e97 47 46
+ae e98 48 38
+ae e99 48 47
+ae e100 49 39
+ae e101 49 48
+ae e102 50 40
+ae e104 51 41
+ae e105 51 50
+ae e106 52 42
+ae e107 52 51
+ae e108 53 43
+ae e109 53 52
+ae e110 54 44
+ae e111 54 53
+ae e112 55 45
+ae e113 55 54
+ae e114 56 46
+ae e115 56 55
+ae e116 57 47
+ae e117 57 56
+ae e118 58 48
+ae e119 58 57
+ae e120 59 49
+ae e121 59 58
+ae e122 60 50
+ae e124 61 51
+ae e125 61 60
+ae e126 62 52
+ae e127 62 61
+ae e128 63 53
+ae e129 63 62
+ae e130 64 54
+ae e131 64 63
+ae e132 65 55
+ae e133 65 64
+ae e134 66 56
+ae e135 66 65
+ae e136 67 57
+ae e137 67 66
+ae e138 68 58
+ae e139 68 67
+ae e140 69 59
+ae e141 69 68
+ae e142 70 60
+ae e144 71 61
+ae e145 71 70
+ae e146 72 62
+ae e147 72 71
+ae e148 73 63
+ae e149 73 72
+ae e150 74 64
+ae e151 74 73
+ae e152 75 65
+ae e153 75 74
+ae e154 76 66
+ae e155 76 75
+ae e156 77 67
+ae e157 77 76
+ae e158 78 68
+ae e159 78 77
+ae e160 79 69
+ae e161 79 78
+ae e162 80 70
+ae e164 81 71
+ae e165 81 80
+ae e166 82 72
+ae e167 82 81
+ae e168 83 73
+ae e169 83 82
+ae e170 84 74
+ae e171 84 83
+ae e172 85 75
+ae e173 85 84
+ae e174 86 76
+ae e175 86 85
+ae e176 87 77
+ae e177 87 86
+ae e178 88 78
+ae e179 88 87
+ae e180 89 79
+ae e181 89 88
+ae e182 90 80
+ae e184 91 81
+ae e185 91 90
+ae e186 92 82
+ae e187 92 91
+ae e188 93 83
+ae e189 93 92
+ae e190 94 84
+ae e191 94 93
+ae e192 95 85
+ae e193 95 94
+ae e194 96 86
+ae e195 96 95
+ae e196 97 87
+ae e197 97 96
+ae e198 98 88
+ae e199 98 97
+ae e200 99 89
+ae e201 99 98

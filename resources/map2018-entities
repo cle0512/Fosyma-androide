@@ -1,0 +1,5 @@
+mapname:DGS004TiciypesV9
+agentExplo:Explo1:3:free:0:30:0
+agentExplo:Explo2:3:free:0:30:20
+agentCollect:Collect1:3:free:40:0:40
+agentTanker:Tanker:3:free:300:200:0
